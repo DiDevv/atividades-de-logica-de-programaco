@@ -1,1 +1,2 @@
-Aqui estão algumas das minhas atividades feitas em Portugol no Visualg. Estou no processo de aprendizagem de Lógica de programação :)
+Aqui estão algumas das minhas atividades solucionadas, propostas no curso de Lógica de Programação do canal Curso em Vídeo. 
+Linguagem utilizada: Portugol.
